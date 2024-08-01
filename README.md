@@ -15,4 +15,4 @@ This is because the loss function of the CGAN involves the D(x,y) and G(x,z) whi
 are basically the generator and discriminator model which are trained on the data and 
 get updated after training. Hence for each of the problems it learns different loss functions.
 
-![Equation for CGAN Loss](images/equation.png)
+![Equation for CGAN Loss](images/equation.jpg)
