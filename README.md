@@ -2,7 +2,9 @@ This repository implements the Pix2Pix architecture using Pytorch.
 
 I have used a U-net based architecture for the Generator model and PatchGAN for the Discriminator model.
 
-![Schematic Diagram of Unet Generator](images/unetgen.jpg)
+
+<img src="images/unetgen.jpg" alt="Schematic Diagram of Unet Generator" width="400" height="500"/>
+
 
 # Some Keypoints from the paper on Pix2Pix (Image-to-Image Translation with Conditional Adversarial Networks)
 
